@@ -1,0 +1,11 @@
+{
+    "InjectCholera": 0,
+    "AmountLiquid": 1,
+    "WCItemsList": [
+        "Pot",
+        "Canteen",
+        "WaterBottle",
+        "CanisterGasoline",
+        "WaterPouch_Natural"
+    ]
+}
