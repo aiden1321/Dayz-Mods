@@ -1,0 +1,770 @@
+{
+    "isActive": 1,
+    "TimeAmount": 14400,
+    "ResetHour": 4,
+    "showWheelTimerOnHud": 1,
+    "fieldOfMiraclesSound": 1,
+    "Prizes": [
+        {
+            "PrizeName": "Random food can",
+            "Items": [
+                {
+                    "ItemType": "PeachesCan",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "SardinesCan",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "SpaghettiCan",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "TacticalBaconCan",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "TunaCan",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                }
+            ],
+            "PrizeChance": 50.0,
+            "showNotificationToAllPlayers": 0,
+            "NotificationText": "",
+            "givePrizeOnlyInHands": 0
+        },
+        {
+            "PrizeName": "Random Medicine First Aid Kit",
+            "Items": [
+                {
+                    "ItemType": "FirstAidKit",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": [
+                        {
+                            "ItemType": "BandageDressing",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "BloodTestKit",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "TetracyclineAntibiotics",
+                            "ItemQuantity": 5,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "PurificationTablets",
+                            "ItemQuantity": 5,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        }
+                    ]
+                },
+                {
+                    "ItemType": "FirstAidKit",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": [
+                        {
+                            "ItemType": "BloodBagEmpty",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "SalineBag",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "CharcoalTablets",
+                            "ItemQuantity": 5,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Epinephrine",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        }
+                    ]
+                },
+                {
+                    "ItemType": "FirstAidKit",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": [
+                        {
+                            "ItemType": "BloodBagEmpty",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "BloodTestKit",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Morphine",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "PainkillerTablets",
+                            "ItemQuantity": 5,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        }
+                    ]
+                }
+            ],
+            "PrizeChance": 5.0,
+            "showNotificationToAllPlayers": 0,
+            "NotificationText": "",
+            "givePrizeOnlyInHands": 0
+        },
+        {
+            "PrizeName": "Sea chest with military equipment",
+            "Items": [
+                {
+                    "ItemType": "SeaChest",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": [
+                        {
+                            "ItemType": "AKM",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [
+                                {
+                                    "ItemType": "Mag_AKM_30Rnd",
+                                    "ItemQuantity": -1,
+                                    "ItemAttachments": [],
+                                    "CargoItems": []
+                                },
+                                {
+                                    "ItemType": "AK_PlasticBttstck",
+                                    "ItemQuantity": -1,
+                                    "ItemAttachments": [],
+                                    "CargoItems": []
+                                }
+                            ],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "FlashGrenade",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "RGD5Grenade",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Ammo_762x39",
+                            "ItemQuantity": 10,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Ammo_762x39Tracer",
+                            "ItemQuantity": 10,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        }
+                    ]
+                },
+                {
+                    "ItemType": "SeaChest",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": [
+                        {
+                            "ItemType": "M4A1",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [
+                                {
+                                    "ItemType": "M4_CQBBttstck",
+                                    "ItemQuantity": -1,
+                                    "ItemAttachments": [],
+                                    "CargoItems": []
+                                },
+                                {
+                                    "ItemType": "M4_Suppressor",
+                                    "ItemQuantity": -1,
+                                    "ItemAttachments": [],
+                                    "CargoItems": []
+                                },
+                                {
+                                    "ItemType": "Mag_CMAG_30Rnd",
+                                    "ItemQuantity": -1,
+                                    "ItemAttachments": [],
+                                    "CargoItems": []
+                                }
+                            ],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "M67Grenade",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "M18SmokeGrenade_Green",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Ammo_556x45",
+                            "ItemQuantity": 10,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Ammo_556x45Tracer",
+                            "ItemQuantity": 10,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        }
+                    ]
+                }
+            ],
+            "PrizeChance": 0.10000000149011612,
+            "showNotificationToAllPlayers": 1,
+            "NotificationText": "receives a valuable prize!",
+            "givePrizeOnlyInHands": 0
+        },
+        {
+            "PrizeName": "Random Military Bag",
+            "Items": [
+                {
+                    "ItemType": "AliceBag_Black",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AliceBag_Camo",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AliceBag_Green",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AssaultBag_Black",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AssaultBag_Green",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AssaultBag_Ttsko",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "CoyoteBag_Brown",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "CoyoteBag_Green",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                }
+            ],
+            "PrizeChance": 5.0,
+            "showNotificationToAllPlayers": 0,
+            "NotificationText": "",
+            "givePrizeOnlyInHands": 0
+        },
+        {
+            "PrizeName": "Random Medium Tent",
+            "Items": [
+                {
+                    "ItemType": "MediumTent",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "MediumTent_Green",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "MediumTent_Orange",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                }
+            ],
+            "PrizeChance": 0.4000000059604645,
+            "showNotificationToAllPlayers": 1,
+            "NotificationText": "receives a valuable prize!",
+            "givePrizeOnlyInHands": 0
+        },
+        {
+            "PrizeName": "Car Tent",
+            "Items": [
+                {
+                    "ItemType": "CarTent",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                }
+            ],
+            "PrizeChance": 0.20000000298023225,
+            "showNotificationToAllPlayers": 1,
+            "NotificationText": "receives a valuable prize!",
+            "givePrizeOnlyInHands": 0
+        },
+        {
+            "PrizeName": "Large tent",
+            "Items": [
+                {
+                    "ItemType": "LargeTent",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                }
+            ],
+            "PrizeChance": 0.20000000298023225,
+            "showNotificationToAllPlayers": 1,
+            "NotificationText": "receives a valuable prize!",
+            "givePrizeOnlyInHands": 0
+        },
+        {
+            "PrizeName": "Random ammo box",
+            "Items": [
+                {
+                    "ItemType": "AmmoBox_00buck_10rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_12gaRubberSlug_10Rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_12gaSlug_10Rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_22_50Rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_308WinTracer_20Rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_308Win_20Rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_357_20Rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_380_35rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_45ACP_25rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_545x39Tracer_20Rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_545x39_20Rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_556x45Tracer_20Rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_556x45_20Rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_762x39Tracer_20Rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_762x39_20Rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_762x54Tracer_20Rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_762x54_20Rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_9x19_25rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_9x39AP_20Rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "AmmoBox_9x39_20Rnd",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                }
+            ],
+            "PrizeChance": 10.0,
+            "showNotificationToAllPlayers": 0,
+            "NotificationText": "",
+            "givePrizeOnlyInHands": 0
+        },
+        {
+            "PrizeName": "Random chest of building materials",
+            "Items": [
+                {
+                    "ItemType": "SeaChest",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": [
+                        {
+                            "ItemType": "WoodenPlank",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "NailBox",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Hammer",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Pliers",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Shovel",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Rope",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "MetalWire",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "BarbedWire",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        }
+                    ]
+                },
+                {
+                    "ItemType": "SeaChest",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": [
+                        {
+                            "ItemType": "WoodenPlank",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "NailBox",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Hammer",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Pliers",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Shovel",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Rope",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "MetalWire",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "BarbedWire",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        }
+                    ]
+                },
+                {
+                    "ItemType": "SeaChest",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": [
+                        {
+                            "ItemType": "WoodenPlank",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "NailBox",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Hammer",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Pliers",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Shovel",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Rope",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "MetalWire",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "BarbedWire",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        }
+                    ]
+                },
+                {
+                    "ItemType": "SeaChest",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": [
+                        {
+                            "ItemType": "WoodenPlank",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "NailBox",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Hammer",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Pliers",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Shovel",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "Rope",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "MetalWire",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        },
+                        {
+                            "ItemType": "BarbedWire",
+                            "ItemQuantity": -1,
+                            "ItemAttachments": [],
+                            "CargoItems": []
+                        }
+                    ]
+                }
+            ],
+            "PrizeChance": 0.10000000149011612,
+            "showNotificationToAllPlayers": 1,
+            "NotificationText": "receives a valuable prize!",
+            "givePrizeOnlyInHands": 0
+        },
+        {
+            "PrizeName": "Random soda can",
+            "Items": [
+                {
+                    "ItemType": "SodaCan_Cola",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "SodaCan_Kvass",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "SodaCan_Pipsi",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                },
+                {
+                    "ItemType": "SodaCan_Spite",
+                    "ItemQuantity": -1,
+                    "ItemAttachments": [],
+                    "CargoItems": []
+                }
+            ],
+            "PrizeChance": 29.0,
+            "showNotificationToAllPlayers": 0,
+            "NotificationText": "",
+            "givePrizeOnlyInHands": 0
+        }
+    ]
+}
