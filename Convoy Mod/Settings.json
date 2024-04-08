@@ -1,0 +1,773 @@
+{
+    "m_WrapStorage": {
+        "MinimumPlayersForEvent" : 8,
+        "EventInterval" : 2600,
+        "Presets" : 33,
+        "NumberOfRandItems" : 1,
+        "CrateClassname": "CrateForConvoy",
+        "PossiblePositions": [
+            {
+                "Pos" : [ 9594, 80, 13756 ],
+                "Ori" : [ -121, 0, 0 ],
+                "PosName" : "Svergino",
+                "CountNormalZmb" : 15,
+                "CountTreasureZmb": 2
+            },
+			{
+                "Pos" : [ 2530, 234, 12039 ],
+                "Ori" : [ 90, 0, 0 ],
+                "PosName" : "Topolniki",
+                "CountNormalZmb" : 15,
+                "CountTreasureZmb": 2
+            },
+			{
+                "Pos" : [ 9550, 255, 14739 ],                                      
+                "Ori" : [ -120, 0, 0 ],
+                "PosName" : "Nagornoye",
+                "CountNormalZmb" : 15,
+                "CountTreasureZmb": 2
+            },
+			{
+                "Pos" : [ 4997, 9, 2483 ],                                     
+                "Ori" : [ -120, 0, 0 ],
+                "PosName" : "Airstrip Balota",                     
+                "CountNormalZmb" : 20,
+                "CountTreasureZmb": 2
+            },
+			{
+                "Pos" : [ 2348, 133, 3692 ],                                     
+                "Ori" : [ -120, 0, 0 ],
+                "PosName" : "Pavlovo",                     
+                "CountNormalZmb" : 10,
+                "CountTreasureZmb": 2
+            },
+			{
+                "Pos" : [ 9511, 239, 11720 ],                                     
+                "Ori" : [ -120, 0, 0 ],
+                "PosName" : "Novy Lug",                     
+                "CountNormalZmb" : 15,
+                "CountTreasureZmb": 2
+            },
+			{
+                "Pos" : [ 13549, 6, 13814 ],                                     
+                "Ori" : [ -120, 0, 0 ],
+                "PosName" : "Turovo Military",                     
+                "CountNormalZmb" : 15,
+                "CountTreasureZmb": 2
+            },
+            {
+                "Pos" : [ 4515, 339, 10104],
+                "Ori" : [ -121, 0, 0 ],
+                "PosName" : "Airfield",         
+                "CountNormalZmb" : 15,
+                "CountTreasureZmb": 2
+            }
+        ],
+        "PossiblePresetsLoot" : [
+            {
+                "Name" : "Test1",
+                "PresetItems":[
+                "BakedBeansCan",
+                "AmmoBox_308Win_20Rnd",
+                "AmmoBox_308Win_20Rnd",
+                "AmmoBox_308Win_20Rnd",
+                "SFP_Collection_Jural_4",
+                "AmmoBox_308Win_20Rnd",
+				"FS_Licences_L2",
+                "AmmoBox_308Win_20Rnd",
+                "Mag_CZ527_5rnd",
+                "Msp_MilitaryCrate_Olive"
+                ]
+            },
+			{
+                "Name" : "Test2",
+                "PresetItems":[
+                "ToxicCure",
+				 "AmmoBox_556x45_20Rnd",
+                "AmmoBox_556x45_20Rnd",
+                "SFP_Collection_Jural_3",
+                "AmmoBox_308Win_20Rnd",
+                "AmmoBox_308Win_20Rnd",
+                "AmmoBox_308Win_20Rnd",
+                "AmmoBox_308Win_20Rnd",
+                "Flag_clown"
+                ]
+            },
+			{
+                "Name" : "Test3",
+                "PresetItems":[
+                "BandageDressing",
+                "TacticalBaconCan",
+                "AmmoBox_762x54_20Rnd",
+                "AmmoBox_762x54_20Rnd",
+                "AmmoBox_762x54_20Rnd",
+                "NVGoggles",
+				"FS_Licences_L3",
+                "Mag_SVD_10Rnd",
+                "NailBox"
+                ]
+            },
+			{
+                "Name" : "Test4",
+                "PresetItems":[
+				"TetracyclineAntibiotics",
+                "PurificationTablets",
+                "BandageDressing",
+                "SalineBag",
+                "CharcoalTablets",
+                "PainkillerTablets",
+                "BBP_Cement",
+				"FS_Licences_L1",
+                "BandageDressing"
+                ]
+            },
+			{
+                "Name" : "Test5",
+                "PresetItems":[
+				"AmmoBox_308Win_20Rnd",
+                "AmmoBox_308Win_20Rnd",
+                "FishingRod",
+				"FS_Licences_L2",
+                "BBP_Cement",
+                "AmmoBox_308Win_20Rnd",
+                "Flag_lol_2"
+                ]
+            },
+			{
+                "Name" : "Test6",
+                "PresetItems":[
+			    "Hammer",
+                "CombatKnife",
+                "Rags",
+                "HandSaw",
+				"FS_Licences_L2",
+				"FS_Licences_L3",
+                "BBP_Cement"
+                ]
+            },
+			{
+                "Name" : "Test7",
+                "PresetItems":[
+                "KOD_Revolver50Cal",
+				"KOD_FAMAS",
+				"KOD_MCR_Tan",
+				"BBP_Cement",
+				"FS_Licences_L2",
+				"Flag_lol_1"
+                ]
+            },
+			{
+                "Name" : "Test8",
+                "PresetItems":[
+                "MSFC_Alice_Bag_Multicam",
+				"MSFC_NBC_Hood_Multicam",
+				"MSFC_Mich2001_Multicam",
+				"MSFC_BoonieHat_Multicam",
+				"MSFC_Mich2000_Multicam",
+				"MSFC_Smersh_Vest_Multicam",
+				"MSFC_HighCapacity_Vest_Multicam",
+				"MSFC_PlateCarrier_Vest_Multicam",
+				"MSFC_PlateCarrier_Holster_Multicam",
+				"MSFC_PlateCarrier_Pouches_Multicam",
+				"MSFC_NBC_Pants_Multicam",
+				"MSFC_Gorka_Pants_Multicam",
+				"MSFC_Gorka_Jacket_Multicam",
+				"MSFC_Cargo_Pants_Multicam"		
+                ]
+            },
+			{
+                "Name" : "Test9",
+                "PresetItems":[
+"MSFC_TShirt_Multicam",
+"MSFC_PCU5_Multicam",
+"MSFC_Sweater_Multicam",
+"MSFC_NBC_Jacket_Multicam",
+"MSFC_M65_Jacket_Multicam",
+"MSFC_Gloves_Multicam",
+"MSFC_NBC_Gloves_Multicam",
+"MSFC_NBC_Boots_Multicam",
+"MSFC_Boots_Multicam",
+"MSFC_Boots_Lowa_Multicam",
+"MSFC_Boots_Trekking_Multicam",
+"MSFC_Tortila_Multicam",
+"MSFC_Smersh_Bag_Multicam",
+"MSFC_Mountain_Bag_Multicam"
+                ]
+            },
+			{
+                "Name" : "Test10",
+                "PresetItems":[
+"MSFC_Coyote_Bag_Multicam",
+"MSFC_PlateCarrier_Vest_Multicam_Logo",
+"MSFC_HighCapacity_Vest_Multicam_Logo",
+"MSFC_Gorka_Jacket_Multicam_NoLogo",
+"MSFC_PCU5_Multicam_NoLogo",
+"MSFC_Smersh_Bag_Medic_Multicam",
+"MSFC_OPS_Core_Multicam",
+"MSFC_Facemask_Multicam",
+"MSFC_Tactical_Cap_Multicam",
+"MSFC_WarBelt_Multicam",
+"MSFC_Pouches_Magazine_Multicam",
+"MSFC_Pouches_One_Multicam",
+"MSFC_Pouches_Two_Multicam",
+"MSFC_Pouches_IFAK_Multicam",
+"MSFC_Canteen_Multicam",
+"MSFC_Case_Multicam",
+"MSFC_TacticalBelt_Multicam",
+"MSFC_JPC_Vest_Multicam",
+"MSFC_TacTec_Vest_Multicam"
+                ]
+            },
+			{
+                "Name" : "Test11",
+                "PresetItems":[
+"MSFC_Alice_Bag_MulticamSnow",
+"MSFC_NBC_Hood_MulticamSnow",
+"MSFC_Mich2001_MulticamSnow",
+"MSFC_BoonieHat_MulticamSnow",
+"MSFC_Mich2000_MulticamSnow",
+"MSFC_Smersh_Vest_MulticamSnow",
+"MSFC_HighCapacity_Vest_MulticamSnow",
+"MSFC_PlateCarrier_Vest_MulticamSnow",
+"MSFC_PlateCarrier_Holster_MulticamSnow",
+"MSFC_PlateCarrier_Pouches_MulticamSnow",
+"MSFC_NBC_Pants_MulticamSnow",
+"MSFC_Gorka_Pants_MulticamSnow",
+"MSFC_Gorka_Jacket_MulticamSnow",
+"MSFC_Cargo_Pants_MulticamSnow",
+"MSFC_TShirt_MulticamSnow",
+"MSFC_PCU5_MulticamSnow",
+"MSFC_Sweater_MulticamSnow",
+"MSFC_NBC_Jacket_MulticamSnow",
+"MSFC_M65_Jacket_MulticamSnow",
+"MSFC_Gloves_MulticamSnow",
+"MSFC_NBC_Gloves_MulticamSnow",
+"MSFC_NBC_Boots_MulticamSnow",
+"MSFC_Boots_MulticamSnow",
+"MSFC_Boots_Lowa_MulticamSnow",
+"MSFC_Boots_Trekking_MulticamSnow",
+"MSFC_Tortila_MulticamSnow",
+"MSFC_Smersh_Bag_MulticamSnow",
+"MSFC_Mountain_Bag_MulticamSnow",
+"MSFC_Coyote_Bag_MulticamSnow"   	
+                ]
+            },
+			{
+                "Name" : "Test12",
+                "PresetItems":[
+"MSFC_PlateCarrier_Vest_MulticamSnow_Logo",
+"MSFC_HighCapacity_Vest_MulticamSnow_Logo",
+"MSFC_Gorka_Jacket_MulticamSnow_NoLogo",
+"MSFC_PCU5_MulticamSnow_NoLogo",
+"MSFC_Smersh_Bag_Medic_MulticamSnow",
+"MSFC_OPS_Core_Multicam_Snow",
+"MSFC_Facemask_Multicam_Snow",
+"MSFC_Tactical_Cap_Multicam_Snow",
+"MSFC_WarBelt_Multicam_Snow",
+"MSFC_Pouches_Magazine_Multicam_Snow",
+"MSFC_Pouches_One_Multicam_Snow",
+"MSFC_Pouches_Two_Multicam_Snow",
+"MSFC_Pouches_IFAK_Multicam_Snow",
+"MSFC_Canteen_MulticamSnow",
+"MSFC_Case_Multicam_Snow",
+"MSFC_TacticalBelt_MulticamSnow",
+"MSFC_JPC_Vest_MulticamSnow",
+"MSFC_TacTec_Vest_MulticamSnow"
+                ]
+            },
+			{
+                "Name" : "Test13",
+                "PresetItems":[
+"MSFC_Alice_Bag_MulticamBlack",
+"MSFC_NBC_Hood_MulticamBlack",
+"MSFC_Mich2001_MulticamBlack",
+"MSFC_BoonieHat_MulticamBlack",
+"MSFC_Mich2000_MulticamBlack",
+"MSFC_Smersh_Vest_MulticamBlack",
+"MSFC_HighCapacity_Vest_MulticamBlack",
+"MSFC_PlateCarrier_Vest_MulticamBlack",
+"MSFC_PlateCarrier_Holster_MulticamBlack",
+"MSFC_PlateCarrier_Pouches_MulticamBlack",
+"MSFC_NBC_Pants_MulticamBlack",
+"MSFC_Gorka_Pants_MulticamBlack",
+"MSFC_Gorka_Jacket_MulticamBlack",
+"MSFC_Cargo_Pants_MulticamBlack",
+"MSFC_TShirt_MulticamBlack",
+"MSFC_PCU5_MulticamBlack",
+"MSFC_Sweater_MulticamBlack",
+"MSFC_NBC_Jacket_MulticamBlack",
+"MSFC_M65_Jacket_MulticamBlack",
+"MSFC_Gloves_MulticamBlack",
+"MSFC_NBC_Gloves_MulticamBlack"	
+                ]
+            },
+			{
+                "Name" : "Test14",
+                "PresetItems":[
+"MSFC_NBC_Boots_MulticamBlack",
+"MSFC_Boots_MulticamBlack",
+"MSFC_Boots_Lowa_MulticamBlack",
+"MSFC_Boots_Trekking_MulticamBlack",
+"MSFC_Tortila_MulticamBlack",
+"MSFC_Smersh_Bag_MulticamBlack",
+"MSFC_Mountain_Bag_MulticamBlack",
+"MSFC_Coyote_Bag_MulticamBlack",
+"MSFC_PlateCarrier_Vest_MulticamBlack_Logo",
+"MSFC_HighCapacity_Vest_MulticamBlack_Logo",
+"MSFC_Gorka_Jacket_MulticamBlack_NoLogo",
+"MSFC_PCU5_MulticamBlack_NoLogo",
+"MSFC_Smersh_Bag_Medic_MulticamBlack"
+                ]
+            },
+			{
+                "Name" : "Test15",
+                "PresetItems":[
+"MSFC_OPS_Core_Multicam_Black",
+"MSFC_Facemask_Multicam_Black",
+"MSFC_Tactical_Cap_Multicam_Black",
+"MSFC_WarBelt_Multicam_Black",
+"MSFC_Pouches_Magazine_Multicam_Black",
+"MSFC_Pouches_One_Multicam_Black",
+"MSFC_Pouches_Two_Multicam_Black",
+"MSFC_Pouches_IFAK_Multicam_Black",
+"MSFC_Canteen_MulticamBlack",
+"MSFC_Case_Multicam_Black",
+"MSFC_TacticalBelt_MulticamBlack",
+"MSFC_JPC_Vest_MulticamBlack",
+"MSFC_TacTec_Vest_MulticamBlack"
+                ]
+            },
+			{
+                "Name" : "Test16",
+                "PresetItems":[
+"MSFC_Alice_Bag_MulticamTropic",
+"MSFC_NBC_Hood_MulticamTropic",
+"MSFC_Mich2001_MulticamTropic",
+"MSFC_BoonieHat_MulticamTropic",
+"MSFC_Mich2000_MulticamTropic",
+"MSFC_Smersh_Vest_MulticamTropic",
+"MSFC_HighCapacity_Vest_MulticamTropic",
+"MSFC_PlateCarrier_Vest_MulticamTropic",
+"MSFC_PlateCarrier_Holster_MulticamTropic"
+                ]
+            },
+			{
+                "Name" : "Test17",
+                "PresetItems":[
+"MSFC_PlateCarrier_Pouches_MulticamTropic",
+"MSFC_NBC_Pants_MulticamTropic",
+"MSFC_Gorka_Pants_MulticamTropic",
+"MSFC_Gorka_Jacket_MulticamTropic",
+"MSFC_Cargo_Pants_MulticamTropic",
+"MSFC_TShirt_MulticamTropic",
+"MSFC_PCU5_MulticamTropic",
+"MSFC_Sweater_MulticamTropic",
+"MSFC_NBC_Jacket_MulticamTropic",
+"MSFC_M65_Jacket_MulticamTropic",
+"MSFC_Gloves_MulticamTropic",
+"MSFC_NBC_Gloves_MulticamTropic",
+"MSFC_NBC_Boots_MulticamTropic",
+"MSFC_Boots_MulticamTropic"
+                ]
+            },
+			{
+                "Name" : "Test18",
+                "PresetItems":[
+"MSFC_Boots_Lowa_MulticamTropic",
+"MSFC_Boots_Trekking_MulticamTropic",
+"MSFC_Tortila_MulticamTropic",
+"MSFC_Smersh_Bag_MulticamTropic",
+"MSFC_Mountain_Bag_MulticamTropic",
+"MSFC_Coyote_Bag_MulticamTropic",
+"MSFC_PlateCarrier_Vest_MulticamTropic_Logo",
+"MSFC_HighCapacity_Vest_MulticamTropic_Logo",
+"MSFC_Gorka_Jacket_MulticamTropic_NoLogo",
+"MSFC_PCU5_MulticamTropic_NoLogo",
+"MSFC_Smersh_Bag_Medic_MulticamTropic",
+"MSFC_OPS_Core_Multicam_Tropic"
+                ]
+            },
+			{
+                "Name" : "Test19",
+                "PresetItems":[
+"MSFC_Facemask_Multicam_Tropic",
+"MSFC_Tactical_Cap_Multicam_Tropic",
+"MSFC_WarBelt_Multicam_Tropic",
+"MSFC_Pouches_Magazine_Multicam_Tropic",
+"MSFC_Pouches_One_Multicam_Tropic",
+"MSFC_Pouches_Two_Multicam_Tropic",
+"MSFC_Pouches_IFAK_Multicam_Tropic",
+"MSFC_Canteen_MulticamTropic",
+"MSFC_Case_Multicam_Tropic",
+"MSFC_TacticalBelt_MulticamTropic",
+"MSFC_JPC_Vest_MulticamTropic",
+"MSFC_TacTec_Vest_MulticamTropic"
+                ]
+            },
+			{
+                "Name" : "Test20",
+                "PresetItems":[
+"MSFC_Alice_Bag_ATACSFG",
+"MSFC_NBC_Hood_ATACSFG",
+"MSFC_Mich2001_ATACSFG",
+"MSFC_BoonieHat_ATACSFG",
+"MSFC_Mich2000_ATACSFG",
+"MSFC_Smersh_Vest_ATACSFG",
+"MSFC_HighCapacity_Vest_ATACSFG",
+"MSFC_PlateCarrier_Vest_ATACSFG",
+"MSFC_PlateCarrier_Holster_ATACSFG",
+"MSFC_PlateCarrier_Pouches_ATACSFG"
+                ]
+            },
+			{
+                "Name" : "Test21",
+                "PresetItems":[
+"MSFC_NBC_Pants_ATACSFG",
+"MSFC_Gorka_Pants_ATACSFG",
+"MSFC_Gorka_Jacket_ATACSFG",
+"MSFC_Cargo_Pants_ATACSFG",
+"MSFC_TShirt_ATACSFG",
+"MSFC_PCU5_ATACSFG",
+"MSFC_Sweater_ATACSFG",
+"MSFC_NBC_Jacket_ATACSFG",
+"MSFC_M65_Jacket_ATACSFG",
+"MSFC_Gloves_ATACSFG",
+"MSFC_NBC_Gloves_ATACSFG",
+"MSFC_NBC_Boots_ATACSFG",
+"MSFC_Boots_ATACSFG",
+"MSFC_Boots_Lowa_ATACSFG",
+"MSFC_Boots_Trekking_ATACSFG",
+"MSFC_Tortila_ATACSFG",
+"MSFC_Smersh_Bag_ATACSFG",
+"MSFC_Mountain_Bag_ATACSFG",
+"MSFC_Coyote_Bag_ATACSFG",
+"MSFC_PlateCarrier_Vest_ATACFG_Logo",
+"MSFC_HighCapacity_Vest_ATACSFG_Logo",
+"MSFC_Gorka_Jacket_ATACSFG_NoLogo",
+"MSFC_PCU5_ATACSFG_NoLogo",
+"MSFC_Smersh_Bag_Medic_ATACSFG",
+"MSFC_OPS_Core_ATACS_FG",
+"MSFC_Facemask_ATACS_FG"
+                ]
+            },
+			{
+                "Name" : "Test22",
+                "PresetItems":[
+"MSFC_Tactical_Cap_ATACSFG",
+"MSFC_WarBelt_ATACSFG",
+"MSFC_Pouches_Magazine_ATACSFG",
+"MSFC_Pouches_One_ATACSFG",
+"MSFC_Pouches_Two_ATACSFG",
+"MSFC_Pouches_IFAK_ATACSFG",
+"MSFC_Canteen_ATACSFG",
+"MSFC_Case_ATACSFG",
+"MSFC_TacticalBelt_ATACSFG",
+"MSFC_JPC_Vest_ATACSFG",
+"MSFC_TacTec_Vest_ATACSFG",
+"MSFC_Alice_Bag_ATACSAU",
+"MSFC_NBC_Hood_ATACSAU",
+"MSFC_Mich2001_ATACSAU",
+"MSFC_BoonieHat_ATACSAU",
+"MSFC_Mich2000_ATACSAU",
+"MSFC_Smersh_Vest_ATACSAU",
+"MSFC_HighCapacity_Vest_ATACSAU",
+"MSFC_PlateCarrier_Vest_ATACSAU",
+"MSFC_PlateCarrier_Holster_ATACSAU",
+"MSFC_PlateCarrier_Pouches_ATACSAU",
+"MSFC_NBC_Pants_ATACSAU",
+"MSFC_Gorka_Pants_ATACSAU"
+                ]
+            },
+			{
+                "Name" : "Test23",
+                "PresetItems":[
+"MSFC_Gorka_Jacket_ATACSAU",
+"MSFC_Cargo_Pants_ATACSAU",
+"MSFC_TShirt_ATACSAU",
+"MSFC_PCU5_ATACSAU",
+"MSFC_Sweater_ATACSAU",
+"MSFC_NBC_Jacket_ATACSAU",
+"MSFC_M65_Jacket_ATACSAU",
+"MSFC_Gloves_ATACSAU",
+"MSFC_NBC_Gloves_ATACSAU",
+"MSFC_NBC_Boots_ATACSAU",
+"MSFC_Boots_ATACSAU",
+"MSFC_Boots_Lowa_ATACSAU",
+"MSFC_Boots_Trekking_ATACSAU",
+"MSFC_Tortila_ATACSAU",
+"MSFC_Smersh_Bag_ATACSAU",
+"MSFC_Mountain_Bag_ATACSAU",
+"MSFC_Coyote_Bag_ATACSAU",
+"MSFC_PlateCarrier_Vest_ATACSAU_Logo",
+"MSFC_HighCapacity_Vest_ATACSAU_Logo",
+"MSFC_Gorka_Jacket_ATACSAU_NoLogo",
+"MSFC_PCU5_ATACSAU_NoLogo",
+"MSFC_Smersh_Bag_Medic_ATACSAU",
+"MSFC_OPS_Core_ATACS_AU"
+
+
+                ]
+            },
+			{
+                "Name" : "Test24",
+                "PresetItems":[
+"MSFC_Facemask_ATACS_AU",
+"MSFC_Tactical_Cap_ATACSAU",
+"MSFC_WarBelt_ATACSAU",
+"MSFC_Pouches_Magazine_ATACSAU",
+"MSFC_Pouches_One_ATACSAU",
+"MSFC_Pouches_Two_ATACSAU",
+"MSFC_Pouches_IFAK_ATACSAU",
+"MSFC_Canteen_ATACSAU",
+"MSFC_Case_ATACSAU",
+"MSFC_TacticalBelt_ATACSAU",
+"MSFC_JPC_Vest_ATACSAU",
+"MSFC_TacTec_Vest_ATACSAU",
+"MSFC_Alice_Bag_SURPAT",
+"MSFC_NBC_Hood_SURPAT",
+"MSFC_Mich2001_SURPAT",
+"MSFC_BoonieHat_SURPAT",
+"MSFC_Mich2000_SURPAT",
+"MSFC_Smersh_Vest_SURPAT"
+                ]
+            },
+			{
+                "Name" : "Test25",
+                "PresetItems":[
+"MSFC_HighCapacity_Vest_SURPAT",
+"MSFC_PlateCarrier_Vest_SURPAT",
+"MSFC_PlateCarrier_Holster_SURPAT",
+"MSFC_PlateCarrier_Pouches_SURPAT",
+"MSFC_NBC_Pants_SURPAT",
+"MSFC_Gorka_Pants_SURPAT",
+"MSFC_Gorka_Jacket_SURPAT",
+"MSFC_Cargo_Pants_SURPAT",
+"MSFC_TShirt_SURPAT",
+"MSFC_PCU5_SURPAT",
+"MSFC_Sweater_SURPAT",
+"MSFC_NBC_Jacket_SURPAT",
+"MgLev_Mod_Gluhar_Lv_4",
+"MSFC_M65_Jacket_SURPAT",
+"MSFC_Gloves_SURPAT",
+"MSFC_NBC_Gloves_SURPAT",
+"MSFC_NBC_Boots_SURPAT",
+"MSFC_Boots_SURPAT",
+"MSFC_Boots_Lowa_SURPAT",
+"MSFC_Boots_Trekking_SURPAT",
+"MSFC_Tortila_SURPAT",
+"MSFC_Smersh_Bag_SURPAT",
+"MSFC_Mountain_Bag_SURPAT",
+"MSFC_Coyote_Bag_SURPAT",
+"MSFC_PlateCarrier_Vest_SURPAT_Logo",
+"MSFC_HighCapacity_Vest_SURPAT_Logo",
+"MSFC_Gorka_Jacket_SURPAT_NoLogo",
+"MSFC_PCU5_SURPAT_NoLogo",
+"MSFC_Smersh_Bag_Medic_SURPAT"
+                ]
+            },
+			{
+                "Name" : "Test26",
+                "PresetItems":[
+"MSFC_OPS_Core_SURPAT",
+"MSFC_Facemask_SURPAT",
+"MSFC_Tactical_Cap_SURPAT",
+"MSFC_WarBelt_SURPAT",
+"MSFC_Pouches_Magazine_SURPAT",
+"MSFC_Pouches_One_SURPAT",
+"MSFC_Pouches_Two_SURPAT",
+"MSFC_Pouches_IFAK_SURPAT",
+"MSFC_Canteen_SURPAT",
+"MSFC_Case_SURPAT",
+"MSFC_TacticalBelt_SURPAT",
+"MSFC_JPC_Vest_SURPAT",
+"MSFC_TacTec_Vest_SURPAT"
+                ]
+            },
+			{
+                "Name" : "Test27",
+                "PresetItems":[
+"MSFC_OPS_Core_EarProtection_Black",
+"MSFC_OPS_Core_EarProtection_Green",
+"MSFC_OPS_Core_EarProtection_Desert",
+"MSFC_OPS_Core_Mandible_Black",
+"MSFC_OPS_Core_Mandible_Green",
+"MSFC_OPS_Core_Mandible_Desert",
+"MSFC_OPS_Core_Headset_Black",
+"MSFC_OPS_Core_Headset_Green",
+"MSFC_OPS_Core_Headset_Desert",
+"MSFC_Altyn_Visor_Green",
+"MSFC_GP21_Black",
+"MSFC_GP21_Green",
+"MSFC_GP21_Blue",
+"MSFC_GP21_Yellow",
+"MSFC_Balaclava_Skull",
+"MSFC_Balaclava_Black",
+"MSFC_Balaclava_Green",
+"MSFC_Balaclava_Desert",
+"MSFC_Altyn_Green",
+"MSFC_6B47_Black",
+"MSFC_6B47_Green",
+"MSFC_6B47_Desert",
+"MSFC_6B47_Cover_Black",
+"MSFC_6B47_Cover_Green",
+"MSFC_6B47_Cover_Desert"
+
+
+                ]
+            },
+			{
+                "Name" : "Test28",
+                "PresetItems":[
+"MSFC_OPS_Core_Black",
+"MSFC_OPS_Core_Green",
+"MSFC_OPS_Core_Desert",
+"MSFC_Facemask_Skull",
+"MSFC_Facemask_Black",
+"MSFC_Facemask_Green",
+"MSFC_Facemask_Desert",
+"MSFC_TShirt_Black_Logo",
+"MSFC_Gorka_Jacket_Desert",
+"MSFC_Gorka_Jacket_Green",
+"MSFC_Gorka_Jacket_Blue",
+"MSFC_Gorka_Pants_Desert",
+"MSFC_Gorka_Pants_Green",
+"MgLev_Mod_Gluhar_Lv_5",
+"MSFC_Gorka_Pants_Blue",
+"MSFC_Headset_Black",
+"MSFC_Headset_Green",
+"MSFC_Headset_Desert",
+"MSFC_Ballistic_Goggles_Black",
+"MSFC_Ballistic_Goggles_Green",
+"MSFC_Ballistic_Goggles_Desert",
+"MSFC_Glasses_BBB_Comander",
+"MSFC_Glasses_Bolle_Cobra",
+"MSFC_Glasses_Bolle_Contour_Platinum",
+"MSFC_Glasses_ESS_Crossbow",
+"MSFC_Glasses_ESS_ICE",
+"MSFC_Glasses_ESS_RollBar",
+"MSFC_Glasses_Oakley_M_Frame",
+"MSFC_Tactical_Cap_Black",
+"MSFC_Tactical_Cap_Green",
+"MSFC_Tactical_Cap_Desert"
+                ]
+            },
+			{
+                "Name" : "Test29",
+                "PresetItems":[
+"MSFC_CombatHelmet_Black",
+"MSFC_CombatHelmet_Green",
+"MSFC_CombatHelmet_Desert",
+"MSFC_ACH_Black",
+"MSFC_ACH_Green",
+"MSFC_ACH_Desert",
+"MSFC_ZSh12M_Black",
+"MSFC_ZSh12M_Green",
+"MSFC_ZSh12M_Desert",
+"MSFC_ZSh12M_Visor_Black",
+"MSFC_ZSh12M_Visor_Green",
+"MSFC_ZSh12M_Visor_Desert",
+"MSFC_ZSh12M_Visor_AbiBASS",
+"MSFC_WarBelt_Black",
+"MSFC_WarBelt_Green",
+"MSFC_WarBelt_Desert",
+"MSFC_Pouches_Magazine_Black",
+"MSFC_Pouches_Magazine_Green",
+"MSFC_Pouches_Magazine_Desert",
+"MSFC_Pouches_EmptyMags_Black"
+                ]
+            },
+			{
+                "Name" : "Test30",
+                "PresetItems":[
+"MSFC_Pouches_EmptyMags_Green",
+"MSFC_Pouches_EmptyMags_Desert",
+"MSFC_Pouches_One_Black",
+"MSFC_Pouches_One_Green",
+"MSFC_Pouches_One_Desert",
+"MSFC_Pouches_Two_Black",
+"MgLev_Mod_Gluhar_Lv_4",
+"MSFC_Pouches_Two_Green",
+"MSFC_Pouches_Two_Desert",
+"MSFC_Pouches_IFAK_Black",
+"MSFC_Pouches_IFAK_Green",
+"MSFC_Pouches_IFAK_Desert",
+"MSFC_Canteen_Black",
+"MSFC_Canteen_Green",
+"MSFC_Canteen_Desert",
+"MSFC_Case",
+"MSFC_FirstAidKit",
+"MSFC_Smersh_Vest_Black"
+                ]
+            },
+			{
+                "Name" : "Test31",
+                "PresetItems":[
+"MSFC_Smersh_Vest_Green",
+"MSFC_Smersh_Vest_Desert",
+"MSFC_Smersh_Bag_Black",
+"MSFC_Smersh_Bag_Green",
+"MSFC_Smersh_Bag_Desert",
+"MSFC_TacticalBelt_Black",
+"MSFC_TacticalBelt_Green",
+"MSFC_TacticalBelt_Desert",
+"MSFC_JPC_Vest_Black",
+"MSFC_JPC_Vest_Green",
+"MSFC_JPC_Vest_Desert",
+"MSFC_TacTec_Vest_Black",
+"MSFC_TacTec_Vest_Green",
+"MSFC_TacTec_Vest_Desert",
+"MSFC_6B45_Vest_Black",
+"MSFC_6B45_Vest_Green",
+"MSFC_6B45_Vest_Desert",
+"MSFC_OPS_Core_Visor_Black",
+"MSFC_OPS_Core_Visor_Green",
+"MSFC_OPS_Core_Visor_Desert",
+"MSFC_MTV_Vest_Black",
+"MSFC_MTV_Vest_Green",
+"MSFC_MTV_Vest_Desert"
+                ]
+            },
+			{
+                "Name" : "Test32",
+                "PresetItems":[
+"MSFC_CargoBag_Black",
+"MSFC_CargoBag_Green",
+"MSFC_CargoBag_Desert",
+"MSFC_PegasusBag_Black",
+"MSFC_PegasusBag_Green",
+"MSFC_PegasusBag_Desert",
+"MSFC_MilitaryTacticalBag30L_Black",
+"MSFC_MilitaryTacticalBag30L_Green",
+"MSFC_MilitaryTacticalBag30L_Desert",
+"MSFC_MilitaryTacticalBag70L_Black",
+"MSFC_MilitaryTacticalBag70L_Green",
+"MSFC_MilitaryTacticalBag70L_Desert",
+"MSFC_G3Pants_Black",
+"MSFC_G3Pants_Green",
+"MgLev_Mod_Gluhar_Lv_5",
+"MSFC_G3Pants_Desert"
+                ]
+            },
+			{
+                "Name" : "Test33",
+                "PresetItems":[
+ "MSFC_PlateCarrier_Vest_Black",
+"MSFC_PlateCarrier_Vest_Green",
+"MSFC_PlateCarrier_Vest_Desert",
+"MSFC_PlateCarrier_Holster_Black",
+"MSFC_PlateCarrier_Pouches_Black",
+"MSFC_PlateCarrier_Holster_Green",
+"MSFC_PlateCarrier_Pouches_Green",
+"MSFC_PlateCarrier_Holster_Desert",
+"MSFC_PlateCarrier_Pouches_Desert"
+                ]
+            }
+        ],
+        "PossibleLoot": [
+        "BandageDressing",
+		"FS_Licences_L5",
+		"FS_Licences_L6"
+		
+        ]
+    }
+}
