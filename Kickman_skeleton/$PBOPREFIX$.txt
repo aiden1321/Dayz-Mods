@@ -1,0 +1,6 @@
+//<'Kickman_skeleton.pbo' properties via Mikero's dos tools, dll version 9.10>
+prefix=Kickman_skeleton;
+Mikero=DePbo.dll.8.35;
+version=22010819;
+//PboType=Arma Addon;
+//</properties>
